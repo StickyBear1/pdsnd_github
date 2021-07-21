@@ -6,7 +6,7 @@
 Bikeshare Data Investigation
 
 ### Description
-
+An interactive program to filter and interpret raw bikeshare data
 
 ### Files used
 Include the files used
